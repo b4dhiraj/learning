@@ -1,7 +1,6 @@
-# Pandas
+# Git
 
-
-[x] [Pandas for Data Science](/Pandas/Pandas%20for%20Data%20Science.ipynb)
+[x] [Git Config](/Git/1-git-config.md)
 
 ---
 [Back](/README.md)
