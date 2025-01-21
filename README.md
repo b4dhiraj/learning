@@ -7,3 +7,5 @@
 [x] [NumPy](/NumPy/README.md)
 
 [x] [Pandas](/Pandas/README.md)
+
+[x] [PythonAutomation](/PythonAutomation/README.md)
