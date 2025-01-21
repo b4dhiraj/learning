@@ -7,6 +7,10 @@ name = "pypi"
 numpy = "*"
 pandas = "*"
 matplotlib = "*"
+pypdf = "*"
+openpyxl = "*"
+reportlab = "*"
+seaborn = "*"
 
 [dev-packages]
 ipykernel = "*"
