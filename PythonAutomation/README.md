@@ -1,4 +1,4 @@
-# Automation Using Python {#automation}
+# Automation Using Python
 
 [x] [Merge Multiple PDF](/PythonAutomation/AutomateWithPython.ipynb#merge-pdf)
 
